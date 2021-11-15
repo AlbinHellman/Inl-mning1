@@ -1,0 +1,3 @@
+﻿
+
+Scaffold-DbContext "Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\steel\OneDrive\Skrivbord\Inlamnings1\daaataabasefirst\daaataabasefirst\Data\ef_daataabasefirst_db.mdf;Integrated Security=True;Connect Timeout=30" Microsoft.EntityFrameworkCore.SqlServer -ContextDir Data -Context SqlContext -OutputDir Entities -force
